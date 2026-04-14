@@ -1,0 +1,5 @@
+Project Title: Employee Management System with Analytics
+Description:
+Developed a complete Employee Management System using Python and SQL with features like employee CRUD operations, department management, and attendance tracking. Integrated data analysis using Pandas and created interactive visualizations using Matplotlib, Seaborn, and Plotly for insights like salary distribution and attendance reports. Implemented data validation, SQL joins, filtering, and sorting for efficient data handling.
+Technologies Used:
+Python, SQLite, Pandas, Matplotlib, Seaborn, Plotly
